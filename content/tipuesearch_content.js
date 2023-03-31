@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'hi \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'First', 'text': 'About\n hi \n', 'tags': '', 'url': 'First.html'}]};
