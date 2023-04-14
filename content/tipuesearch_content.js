@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': '0.0 Orz \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'Vocabulary', 'text': '/downloads/cambridge_english_vocabulary_list.pdf \n /downloads/The_Oxford_5000.pdf \n \n', 'tags': '', 'url': 'Vocabulary.html'}, {'title': 'About', 'text': '\n \n \n \n \n \n \n', 'tags': '', 'url': 'About.html'}]};
